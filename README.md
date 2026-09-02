@@ -41,7 +41,7 @@ module-22-multi-tool-ai-agent/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPO_URL>
+git clone https://github.com/rabiul9137/module-22-multi-tool-ai-agent.git
 cd module-22-multi-tool-ai-agent
 ```
 
